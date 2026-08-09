@@ -1,0 +1,4 @@
+->
+import net.fabricmc.api.ModInitializer; -> import net.neoforged.bus.api.IEventBus;\nimport net.neoforged.fml.ModContainer;\nimport net.neoforged.fml.common.Mod;
+public class LiteFPS implements ModInitializer -> @Mod(LiteFPS.MOD_ID)\npublic final class LiteFPS
+@Override\s+public void onInitialize\(\) {} -> public LiteFPS(IEventBus ignoredModEventBus, ModContainer ignoredModContainer) {}
