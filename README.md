@@ -4,7 +4,8 @@ Minecraft mod to fix the framerate limiter.
     - Minecraft 1.21.11 and below: Allow FPS to actually reach the target instead of randomly being 5-20 FPS lower.
     - Minecraft 26.1 and above: Fix dropping by 1 FPS due to using out-of-date information.
 
-2) HEAVILY recommended to use alongside [Ixeris](https://www.curseforge.com/minecraft/mc-mods/ixeris).
+2) HEAVILY recommended to use alongside [Ixeris](https://www.curseforge.com/minecraft/mc-mods/ixeris). \
+For a standalone version, see [Stable FPS](https://github.com/lunaticbonnie/stable-fps/issues).
 
 Recommended settings:
 - `Fullscreen: ON` (due to Minecraft using `Hardware: Legacy Flip` on Windows)
