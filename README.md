@@ -14,7 +14,7 @@ Recommended settings:
 - With Lite FPS: `Max Framerate: any`
 NOTE: Some versions of Minecraft have a slow renderer, so you may need to limit your fps further on those.
 
-Available on [CurseForge](https://www.curseforge.com/minecraft/mc-mods/lite-fps/preview) and [Modrinth](https://modrinth.com/mod/lite-fps-xyz).
+Available on [CurseForge](https://www.curseforge.com/minecraft/mc-mods/lite-fps/preview) and [Modrinth](https://modrinth.com/mod/lite-fps-patrolin).
 
 ## dev
 ```
