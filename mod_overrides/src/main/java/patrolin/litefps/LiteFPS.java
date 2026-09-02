@@ -3,7 +3,6 @@ package patrolin.litefps;
 import net.fabricmc.api.ModInitializer;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import java.util.concurrent.*;
 
 public class LiteFPS implements ModInitializer {
 	@Override
