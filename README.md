@@ -12,6 +12,7 @@ Recommended settings:
 - `VSync: ON` (to not waste time rendering frames that won't be shown)
 - In Vanilla: `Max Framerate: Unlimited` (due to Vanilla fps limiter being broken)
 - With Lite FPS: `Max Framerate: any`
+
 NOTE: Some versions of Minecraft have a slow renderer, so you may need to limit your fps further on those.
 
 Available on [CurseForge](https://www.curseforge.com/minecraft/mc-mods/lite-fps) and [Modrinth](https://modrinth.com/mod/lite-fps-patrolin).
@@ -60,6 +61,6 @@ Java 8 for Minecraft 1.16.5 and earlier
 ### Minecraft versions
 ```
 Minecraft 1.21.9 and above has F3 menu on the main menu
-Fabric suppports mixins for Minecraft 1.14.4 and above
-Forge suppports mixins for Minecraft 1.15 and above
+Fabric suppports mixins (with mojang mappings) for Minecraft 1.14.4 and above
+Forge suppports mixins (with mojang mappings) for Minecraft 1.15.2 and above
 ```
