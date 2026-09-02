@@ -1,3 +1,3 @@
 import net.fabricmc.api.ModInitializer; import net.minecraftforge.fml.common.Mod;\nimport net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext
 public class LiteFPS implements ModInitializer; @Mod(LiteFPS.MOD_ID)\npublic final class LiteFPS
-@Override\s+public void onInitialize\(\) {}; public LiteFPS(FMLJavaModLoadingContext context) {}
+@Override\s+public void onInitialize\(\) {}; public LiteFPS() {}\n public LiteFPS(FMLJavaModLoadingContext context) {}
