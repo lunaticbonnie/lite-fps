@@ -60,5 +60,6 @@ Java 8 for Minecraft 1.16.5 and earlier
 ### Minecraft versions
 ```
 Minecraft 1.21.9 and above has F3 menu on the main menu
-Mixins are only supported for Minecraft 1.14.4 and above
+Fabric suppports mixins for Minecraft 1.14.4 and above
+Forge suppports mixins for Minecraft 1.15 and above
 ```
