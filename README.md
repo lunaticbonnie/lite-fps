@@ -40,7 +40,7 @@ Download mod templates for all desired Minecraft versions into `templates/*` fro
 `ice run` or Open `./current` in IntelliJ IDEA and run `runClient` gradle task \
 `ice build-version <version>` to run and build the selected version
 
-### Run with tracy profiler
+### Run with tracy profiler (Fabric only)
 ```
 Download some version of tracy profiler
 Add `--tracy` to application args
@@ -60,4 +60,5 @@ Java 8 for Minecraft 1.16.5 and earlier
 ### Minecraft versions
 ```
 Minecraft 1.21.9 and above has F3 menu on the main menu
+Mixins are only supported for Minecraft 1.14.4 and above
 ```
