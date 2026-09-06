@@ -1,9 +1,9 @@
 GRADLEW :: "./current/gradlew -p current"
 
 stop:
-  $$GRADLEW --stop
+  ? $$GRADLEW --stop
 clean:
-  $$GRADLEW --stop
+  ? $$GRADLEW --stop
   python change_version.py clean
 list:
   python change_version.py
@@ -22,8 +22,8 @@ run-version:
   python change_version.py $$ARGS
   $$GRADLEW runClient
 build-version:
-  $$GRADLEW --stop
-  $$GRADLEW --stop
+  ? $$GRADLEW --stop
+  ? $$GRADLEW --stop
   python change_version.py $$ARGS
   $$GRADLEW runClient
   $$GRADLEW build
